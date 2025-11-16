@@ -1,0 +1,5 @@
+# Bỏ qua node_modules của Backend
+/node_modules
+
+# Bỏ qua node_modules của Frontend
+/frontend-app/node_modules
